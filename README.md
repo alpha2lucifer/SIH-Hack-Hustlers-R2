@@ -39,11 +39,11 @@ MongoDB: A NoSQL database for efficient data storage.
 Express.js: A web application framework for Node.js.
 Installation
 
-Clone this repository: https://github.com/Makkohli/SIH_Hack-Hustlers_R2.git
+Clone this repository: https://github.com/interrupt404/SIH_Hack-Hustlers_R2.git
 
 bash
 Copy code
-git clone https://github.com/Makkohli/SIH_Hack-Hustlers_R2.git
+git clone https://github.com/interrupt404/SIH_Hack-Hustlers_R2.git
 Navigate to the project directory: SIH_Hack-Hustlers_R2
 
 bash
@@ -70,7 +70,7 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact: 
-If you have any questions or need support, feel free to contact us at manishkohli030@gmail.com
+If you have any questions or need support, feel free to contact us at rajatraj2001@gmail.com
 Visit our website: https://sih-hack-hustlers-r2.vercel.app/
 Connect with us on social media: Twitter | Facebook
 MicroThrive - Helping Micro and Small Enterprises Thrive! 🚀
