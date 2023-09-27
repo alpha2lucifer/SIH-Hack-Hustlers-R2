@@ -39,12 +39,12 @@ MongoDB: A NoSQL database for efficient data storage.
 Express.js: A web application framework for Node.js.
 Installation
 
-Clone this repository: https://github.com/interrupt404/SIH_Hack-Hustlers_R2.git
+Clone this repository: https://github.com/interrupt404/SIH-Hack-Hustlers-R2.git
 
 bash
 Copy code
-git clone https://github.com/interrupt404/SIH_Hack-Hustlers_R2.git
-Navigate to the project directory: SIH_Hack-Hustlers_R2
+git clone https://github.com/interrupt404/SIH-Hack-Hustlers-R2.git
+Navigate to the project directory: SIH-Hack-Hustlers-R2
 
 bash
 Copy code
