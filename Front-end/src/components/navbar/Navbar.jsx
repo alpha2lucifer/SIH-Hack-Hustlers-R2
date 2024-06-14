@@ -2,9 +2,11 @@
 
 import Link from "next/link";
 import React from "react";
+import { useContext } from "react";
 import styles from "./navbar.module.css";
 import DarkModeToggle from "../DarkModeToggle/DarkModeToggle";
 import { signOut, useSession } from "next-auth/react";
+import { ThemeContext } from "../../context/ThemeContext";
 
 const links = [
   {
@@ -41,10 +43,10 @@ const links = [
 
 const Navbar = () => {
   const session = useSession();
-
+  const { toggle,mode } = useContext(ThemeContext);
   return (
-    <div className={styles.container}>
-      <Link href="/" className={styles.logo}>
+    <div className={`${styles.container} ${mode === "light" ? styles.light : styles.dark} ${styles.theme}`}> 
+      <Link href="/" className={styles.logo} >
       MicroThrive
       </Link>
       <div className={styles.links}>
